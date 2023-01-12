@@ -16,6 +16,7 @@ docker run -d -it --init \
 --publish="7777:7778" \
 <repo-name> bash
 ```
+- To execute container bash interface, run: `docker exec -it <container_id> bash` 
 
 #### Run jupyter server
 
