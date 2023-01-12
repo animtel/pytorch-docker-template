@@ -24,6 +24,7 @@ ninja==1.10.2
 prettytable==3.5.0
 git+https://github.com/openai/CLIP.git@40f5484c1c74edd83cb9cf687c6ab92b28d8b656
 gdown==4.6.0
+lovely-tensors==0.1.14
 pyspng
 psutil
 mrcfile
