@@ -1,5 +1,4 @@
 # <REPO-NAME>
-Custom implementation of iterative image diffusion process
 
 ### Build & Run docker
 
